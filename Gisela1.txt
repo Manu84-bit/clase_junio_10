@@ -1,1 +1,2 @@
-Esto seria un texto serio
+Esto seria un texto serio.
+Espero que el ejercicio salga bien.
